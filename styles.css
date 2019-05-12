@@ -49,12 +49,21 @@ p {
   font-weight: bold;
 }
 
-img {
+.top {
     border-radius: 50%;
     max-width: 100%;
     max-height: 100%;
     margin-left: auto;
     margin-right:auto;
-
-
   }
+
+  .Reg {
+    max-height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+a {
+  text-align: center;
+  color: purple;
+}
